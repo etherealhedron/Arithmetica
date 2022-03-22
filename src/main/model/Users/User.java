@@ -1,4 +1,4 @@
-package main.Users;
+package main.model.Users;
 
 /**
  * This class is to instantiate user objects that represent a specific user in the case
