@@ -1,8 +1,5 @@
 /**
- * 
- */
-/**
- * @author 19159
+ * @author anton
  *
  */
 package main.controller;
